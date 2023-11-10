@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
- printf("king");
+ int a=5,b=10;
+ printf("%d",a+b);
  return 0;
 }
